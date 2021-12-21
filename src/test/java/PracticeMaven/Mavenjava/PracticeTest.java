@@ -8,6 +8,10 @@ public class PracticeTest {
 	public void mathod1()
 	{
 		System.out.println("Hello");
+		System.out.println("testing git commands");
+		System.out.println("person X changes");
+		
 	}
+	
 
 }
