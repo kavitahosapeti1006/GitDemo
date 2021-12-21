@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T21:21:33 IST" name="Suite" finished-at="2021-11-21T21:21:33 IST" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2021-11-21T21:21:33 IST" name="Test" finished-at="2021-11-21T21:21:33 IST" duration-ms="88">
+      <class name="PracticeMaven.Mavenjava.PracticeTest">
+        <test-method signature="mathod1()[pri:0, instance:PracticeMaven.Mavenjava.PracticeTest@757acd7b]" started-at="2021-11-21T21:21:33 IST" name="mathod1" finished-at="2021-11-21T21:21:33 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mathod1 -->
+      </class> <!-- PracticeMaven.Mavenjava.PracticeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
