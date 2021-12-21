@@ -13,5 +13,11 @@ public class PracticeTest {
 		
 	}
 	
+	@Test
+	public void method2()
+	{
+		System.out.println("Architect is making changes");
+	}
+	
 
 }
